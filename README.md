@@ -12,8 +12,8 @@
 ---
 
 ## 🚀 About Me
-💡 **Currently Exploring:** Full Stack Development and Machine Learning 
-🌍 **Location:** Open to On-Site Opportunities  
+💡 **Currently Exploring:** Full Stack Development and Machine Learning </br>
+🌍 **Location:** Open to On-Site Opportunities   </br>
 📩 **Contact:** [mukadamafrah@gmail.com](mailto:mukadamafrah@gmail.com)
 
 ---
@@ -54,7 +54,7 @@
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:mukadamafrah@gmail.com)
 
 
-
+ </br>
 📬 **Feel free to reach out!** 🚀
 
 
