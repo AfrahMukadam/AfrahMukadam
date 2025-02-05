@@ -1,4 +1,6 @@
-## <h1 align="center" class="heading-element" dir="auto">Hi 👋, I'm Afrah Mukadam</h1>
+## 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/81a3cd14483a2e7af91c6dd181622ecf817d5323cd23eaff7d63b4445f3badca/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f666f726d61743a776562702f302a4e34724f514d534a7779734a55566e32"><img src="https://camo.githubusercontent.com/81a3cd14483a2e7af91c6dd181622ecf817d5323cd23eaff7d63b4445f3badca/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f666f726d61743a776562702f302a4e34724f514d534a7779734a55566e32" data-canonical-src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*N4rOQMSJwysJUVn2" style="max-width: 100%;"></a>
+<h1 align="center" class="heading-element" dir="auto">Hi 👋, I'm Afrah Mukadam</h1>
 </br>
 <h3 align="center" class="heading-element" dir="auto"> 🚀 Full Stack Developer | Web Developer | Mobile App Developer</h1></br>
 
@@ -11,7 +13,7 @@
 
 ## 🚀 About Me
 💡 **Currently Exploring:** Full Stack Development and Machine Learning 
-🌍 **Location:** Open to Remote & On-Site Opportunities  
+🌍 **Location:** Open to On-Site Opportunities  
 📩 **Contact:** [mukadamafrah@gmail.com](mailto:mukadamafrah@gmail.com)
 
 ---
@@ -40,16 +42,18 @@
 ---
 
 ## 📊 GitHub Stats
-
-![Afrah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AfrahMukadam&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AfrahMukadam&layout=compact&theme=radical)
+![Afrah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AfrahMukadam&show_icons=true&theme=radical)
 
 ---
 
 ## 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afrahmukadam/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afrah-mukadam-688479219/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/AfrahMukadam)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat&logo=web)](https://afraahmukadam-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat&logo=web)](https://afraahmukadam.wordpress.com/)  
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:mukadamafrah@gmail.com)
+
+
 
 📬 **Feel free to reach out!** 🚀
 
