@@ -16,9 +16,12 @@
 🌍 **Location:** Open to On-Site Opportunities   </br>
 📩 **Contact:** [mukadamafrah@gmail.com](mailto:mukadamafrah@gmail.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=AfrahMukadam&label=Profile%20Views&color=blue&style=flat)
 ---
 
+
 ## 🛠️ Tech Stack
+
 
 **Frontend:**  
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5)  
