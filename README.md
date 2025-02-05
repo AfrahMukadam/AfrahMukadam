@@ -55,7 +55,7 @@
 
 
  </br>
-📬 **Feel free to reach out!** 🚀
+📬 Feel free to reach out! 🚀
 
 
 
