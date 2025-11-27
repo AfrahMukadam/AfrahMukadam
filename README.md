@@ -53,7 +53,7 @@
 ## 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afrah-mukadam-688479219/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/AfrahMukadam)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat&logo=web)](https://afraahmukadam.wordpress.com/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat&logo=web)](https://afrah-mukadam-portfolio.netlify.app)  
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:mukadamafrah@gmail.com)
 
 
